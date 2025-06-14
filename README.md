@@ -20,15 +20,14 @@ Com base nos insights da análise exploratória, foram aplicadas transformaçõe
 Nesta etapa, foram selecionados e implementados modelos de aprendizagem supervisionada. Realizamos o treinamento desses modelos com o dataset preparado e avaliamos seu desempenho com métricas adequadas.
 * **Modelos Selecionados:** Regressão Linear e Naive Bayes.
 
-### 4. Aprendizagem Não Supervisionada (Opcional - Adapte se você fez esta parte)
+### 4. Aprendizagem Não Supervisionada
 Caso tenha sido realizada, esta seção descreveria a técnica de aprendizagem não supervisionada escolhida (como Clusterização, Redução de Dimensionalidade ou Análise de Outlier) aplicada ao dataset e a interpretação dos resultados obtidos.
 *(Remova este item se você não realizou a parte de Aprendizagem Não Supervisionada)*
 
 
 
 ###  Dataset Público
-Todas as tarefas foram realizadas utilizando um dataset público selecionado de plataformas como Kaggle ou UCI.
-*(Aqui você pode mencionar qual dataset específico foi usado, por exemplo: "O dataset utilizado foi o used_car_price_dataset_extended do Kaggle/UCI.")*
+O dataset utilizado foi o used_car_price_dataset_extended do Kaggle/UCI.
 
 ## ✨ Tecnologias e Ferramentas Utilizadas (Exemplo - Adapte às suas)
 
