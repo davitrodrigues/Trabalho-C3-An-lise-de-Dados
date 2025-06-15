@@ -31,8 +31,8 @@ O dataset utilizado foi o used_car_price_dataset_extended do Kaggle/UCI.
 
 ## ✨ Tecnologias e Ferramentas Utilizadas (Exemplo - Adapte às suas)
 
-* **Linguagem de Programação:** Python (com bibliotecas como Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+* **Linguagem de Programação:** Python (com bibliotecas como Pandas, NumPy, Scikit-learn)
 * **Ambiente de Desenvolvimento:** Jupyter Notebook
-* * **Controle de Versão:** Git / GitHub
+
 
 
