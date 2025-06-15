@@ -10,19 +10,19 @@ Este projeto foi proposto com o objetivo principal de proporcionar uma experiên
 
 O desafio proposto abrangeu as seguintes tarefas, essenciais para a compreensão e aplicação prática do Machine Learning:
 
-### 1. Análise Exploratória de Dados (AED)
+### 1. Análise Exploratória de Dados 
 Realização de uma análise inicial do dataset escolhido. Esta etapa envolveu a identificação das variáveis presentes (numéricas e categóricas), bem como a detecção de valores faltantes ou outliers.
 
 ### 2. Feature Engineering
-Com base nos insights da análise exploratória, foram aplicadas transformações nas variáveis do dataset. Isso incluiu técnicas como normalização, codificação de variáveis categóricas e a criação de novas features, visando otimizar os dados para o treinamento dos modelos.
+Com base nos insights da análise exploratória, foram aplicadas transformações nas variáveis do dataset. Isso incluiu técnicas como normalização, codificação de variáveis categóricas e a criação de novas features.
 
 ### 3. Aprendizagem Supervisionada
 Nesta etapa, foram selecionados e implementados modelos de aprendizagem supervisionada. Realizamos o treinamento desses modelos com o dataset preparado e avaliamos seu desempenho com métricas adequadas.
-* **Modelos Selecionados:** Regressão Linear e Naive Bayes.
+* **Modelos Selecionados:** Regressão Linear.
 
 ### 4. Aprendizagem Não Supervisionada
-Caso tenha sido realizada, esta seção descreveria a técnica de aprendizagem não supervisionada escolhida (como Clusterização, Redução de Dimensionalidade ou Análise de Outlier) aplicada ao dataset e a interpretação dos resultados obtidos.
-*(Remova este item se você não realizou a parte de Aprendizagem Não Supervisionada)*
+Nesta etapa, foram selecionados e implementados modelos de aprendizagem não supervisionada. Realizamos o treinamento desses modelos com o dataset e logo após, uma interpretação dos mesmos.
+* **Modelos Selecionados:** Clusterização
 
 
 
